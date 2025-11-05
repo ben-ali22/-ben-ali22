@@ -1,30 +1,40 @@
 
-### Hi there 👋
+<img align="center" src="https://avatars.githubusercontent.com/u/150531172?s=400" width="150" style="border-radius:50%;"/>
 
-I'm a Front-end Web & Mobile Application Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based & Mobile platform.
+# Hi 👋 I'm Mohamed (Frontend Developer)
 
+I'm a Frontend Developer who loves building interfaces that FEEL alive not just exist.  
+Creativity + Animation + Pixel Control + UI Craft — this is where I live.
 
-♥️ I enjoy to make people laugh and coding. <br/>
-📫 How to reach me: [email](m01093913935) or [facebook](https://www.facebook.com/share/1GBTXWdcZv/ ) <br/>
-💬 Ask me about anything <br/>
+## About Me
+- I believe frontend is ART not just markup.
+- I love turning ideas → Interactive Experiences.
+- Every project I do… لازم يكون ليه روح .. مش مجرد كود.
 
+---
 
-#### Connect with me:
+## Tech Stack ⚡
+| Tools | Skills |
+|-------|--------|
+| Frontend | HTML / CSS / JavaScript / React |
+| Version Control | Git / GitHub |
 
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@superhmh3785) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GBTXWdcZv/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ali-abd-alaty-78b533380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moali8782?igsh=bmF0eTBmbTlmcnBl)
+---
 
+## Where to find me 🚀
+[Instagram](https://www.instagram.com/moali8782?igsh=bmF0eTBmbTlmcnBl) •  
+[YouTube](https://www.youtube.com/@superhmh3785) •  
+[Facebook](https://www.facebook.com/share/1GBTXWdcZv/) •  
+**Email:** m01093913935@gmail.com
 
-#### Things I code with
+---
 
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)    [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-8512F7?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![Android Badge](https://img.shields.io/badge/Android-3DDB87?style=for-the-badge&logo=android&logoColor=white)](#)    [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   [![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#)   [![Next.js badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)   [![Nodejs Badge](https://img.shields.io/badge/NodeJS-87BF00?style=for-the-badge&logo=node.js&logoColor=white)](#)   [![Laravel Badge](https://img.shields.io/badge/Laravel-EF392B?style=for-the-badge&logo=laravel&logoColor=white)](#)   [![Django Badge](https://img.shields.io/badge/Django-003E2B?style=for-the-badge&logo=django&logoColor=white)](#)   [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+## My Vision
+I want to become one of the most recognizable Creative Frontend Developers.  
+Not just build… but stand out.  
+Make UI that people remember.
 
+---
 
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=frontendsourcecode.frontendsourcecode)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontendsourcecode" alt="frontendsourcecode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendsourcecode&show_icons=true&locale=en" alt="frontendsourcecode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendsourcecode&" alt="frontendsourcecode" /></p>
+## Fun Note:
+Profile under constant evolution … Every week better than the week before 🚀
